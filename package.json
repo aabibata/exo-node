@@ -1,0 +1,27 @@
+{
+  "name": "exo-node",
+  "version": "1.0.0",
+  "description": "Preparation au test de CGI",
+  "main": "index.js",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3",
+    "lodash": "^4.17.10",
+    "mongodb": "^3.1.1",
+    "mongoose": "^5.2.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aabibata/exo-node.git"
+  },
+  "author": "Bibata",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aabibata/exo-node/issues"
+  },
+  "homepage": "https://github.com/aabibata/exo-node#readme"
+}
