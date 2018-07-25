@@ -12,11 +12,15 @@
   },
   "devDependencies": {},
   "scripts": {
+    "start":"node server/serverjs",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/aabibata/exo-node.git"
+  },
+  "engines": {
+    "node": "10.5.0"
   },
   "author": "Bibata",
   "license": "ISC",
